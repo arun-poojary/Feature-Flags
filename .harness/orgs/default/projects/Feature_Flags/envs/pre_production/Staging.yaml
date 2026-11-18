@@ -1,0 +1,8 @@
+environment:
+  name: Staging
+  identifier: Staging
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: Feature_Flags
